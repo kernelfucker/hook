@@ -7,9 +7,9 @@ $ clang hook.c -o hook -Os -s -Wall -Werror -lxcb -lxcb-image -lxcb-randr -lz
 # usage
 $ ./hook
 
-$ ./hook -d 2
-
 $ ./hook -m
+
+$ ./hook -d 2
 
 $ ./hook -d 2 -s
 
