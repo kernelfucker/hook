@@ -13,6 +13,8 @@ $ ./hook -m
 
 $ ./hook -d 2 -s
 
+$ ./hook -d 2 -c
+
 $ ./hook -f -s
 
 # options
