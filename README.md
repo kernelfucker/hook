@@ -7,9 +7,9 @@ $ clang hook.c -o hook -Os -s -Wall -Werror -lxcb -lxcb-image -lxcb-randr -lz
 # usage
 $ ./hook
 
-$ ./hook -m
+$ ./hook screenshot.png \# default is timestamp
 
-$ ./hook -d 2
+$ ./hook -m
 
 $ ./hook -d 2 -s
 
