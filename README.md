@@ -27,4 +27,4 @@ $ ./hook -f -s
 ```
 
 # example
-![image](https://github.com/user-attachments/assets/51e479ff-df0b-481d-b8fc-f7f4f1471adc)
+![image](https://github.com/user-attachments/assets/38c22ec2-faaa-4514-b852-2a4116850ebf)
