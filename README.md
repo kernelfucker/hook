@@ -11,11 +11,11 @@ $ ./hook screenshot.png \# default is timestamp
 
 $ ./hook -m
 
-$ ./hook -d 2 -s
+$ ./hook -s -d 2
 
-$ ./hook -d 2 -c
+$ ./hook -c -d 2
 
-$ ./hook -f -s
+$ ./hook -s -f
 
 # options
 ```
